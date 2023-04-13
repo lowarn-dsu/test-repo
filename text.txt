@@ -1,1 +1,1 @@
-Hello world!
+Wrong version of repository loaded.
